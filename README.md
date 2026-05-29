@@ -19,7 +19,9 @@ This repository collects materials supporting the proposal (literature review, d
   - [1.1 Methodology](#11-methodology)
   - [1.2 Thematic synthesis](#12-thematic-synthesis)
   - [1.3 Reviewed papers](#13-reviewed-papers)
-- [2. Additional supporting material (placeholder)](#2-additional-supporting-material-placeholder)
+- [2. Bibliography — References cited in the proposal](#2-bibliography--references-cited-in-the-proposal)
+- [3. Endorsement letters](#3-endorsement-letters)
+- [4. Additional supporting material (placeholder)](#4-additional-supporting-material-placeholder)
 - [Citation](#citation)
 - [License](#license)
 
@@ -135,7 +137,54 @@ The column `C/I/Q` reports the status of thematic aspects in the order **C**onse
 
 ---
 
-## 2. Additional supporting material (placeholder)
+## 2. Bibliography — References cited in the proposal
+
+Core references cited in section C.1 of the application form. They frame the theoretical and methodological foundations of H⁴-VALUE across its four dimensions: heritage conservation theory and international charters, phenomenology and embodied/haptic experience of architecture, adaptive reuse, cultural capital and behavioural impact, and HBIM / Digital Twin technologies.
+
+1. Council of Europe. (2005). *Framework Convention on the Value of Cultural Heritage for Society* (Faro Convention).
+2. European Ministers of Culture. (2018). *Davos Declaration: Towards a High-Quality Baukultur for Europe.*
+3. Adaptive Reuse and Heritage Alliance. (2018). *Leeuwarden Declaration: Adaptive Reuse of the Built Heritage.*
+4. Riegl, A. (1903). *Der moderne Denkmalkultus: Sein Wesen und seine Entstehung.* Vienna: W. Braumüller.
+5. Brandi, C. (1963). *Teoria del Restauro.* Torino: Einaudi.
+6. ICOMOS. (1964). *International Charter for the Conservation and Restoration of Monuments and Sites* (Venice Charter). Venice.
+7. Australia ICOMOS. (1979, revised 2013). *The Burra Charter: The Australia ICOMOS Charter for Places of Cultural Significance.*
+8. ICOMOS. (1994). *The Nara Document on Authenticity.* Nara.
+9. Pallasmaa, J. (2005). *The Eyes of the Skin: Architecture and the Senses.* Chichester: Wiley.
+10. Zumthor, P. (2006). *Atmospheres: Architectural Environments, Surrounding Objects.* Basel: Birkhäuser.
+11. Gallese, V., & Gattara, A. (2015). "Embodied Simulation, Aesthetics and Architecture: An Experimental Aesthetic Approach." In S. Robinson & J. Pallasmaa (Eds.), *Mind in Architecture: Neuroscience, Embodiment and the Future of Design* (pp. 161–179). Cambridge, MA: MIT Press.
+12. Jelić, A., Tieri, G., De Matteis, F., Babiloni, F., & Vecchiato, G. (2016). "The Enactive Approach to Architectural Experience: A Neurophysiological Perspective on Embodiment, Motivation and Affordances." *Frontiers in Psychology*, 7.
+13. Candeloro, G., Tartari, M., Varveri, R., D'Ignazio, M., Mastrolonardo, L., & Sacco, P. L. (2025). "Marginalized Living and Disabling Spaces: A Bio-Cognitive Perspective." *Land*, 14(11), 2234. https://doi.org/10.3390/land14112234
+14. Douglas, J. (2006). *Building Adaptation* (2nd ed.). Oxford: Butterworth-Heinemann.
+15. Plevoets, B., & Van Cleempoel, K. (2011). "Adaptive Reuse as a Strategy towards Conservation of Cultural Heritage: A Literature Review." In *Structural Studies, Repairs and Maintenance of Heritage Architecture XI.*
+16. Wong, L. (2016). *Adaptive Reuse: Extending the Lives of Buildings.* Basel: Birkhäuser.
+17. Lanz, F., & Pendlebury, J. (2022). "Adaptive reuse: a critical review." *The Journal of Architecture*, 27(2–3), 441–462. https://doi.org/10.1080/13602365.2022.2105381
+18. Moghaddasi, A. (2026). "The Theoretical Foundations of Adaptive Reuse of Historic Buildings: From Classical Theories to Modern Charters." *Tercio Creciente*, 29(29), 129–142.
+19. Shin, Y. J., Park, E. J., & Kang, E. (2026). "Holistic approach to adaptive reuse research focused on the design strategy and its extended categories: lessons from a critical review." *Journal of Asian Architecture and Building Engineering*, 25(1), 414–432. https://doi.org/10.1080/13467581.2025.2458802
+20. Agovino, M., Crociata, A., Quaglione, D., Sacco, P. L., & Sarra, A. (2017). "Good taste tastes good: Cultural capital as a determinant of organic food purchase by Italian consumers: Evidence and policy implications." *Ecological Economics*, 141, 66–75.
+21. Bassetti, T., Biferale, L., Brandano, M. G., Crociata, A., Odoardi, I., Pavesi, F., Pedrini, G., Sacco, P., & Scuderi, R. (2026). *Capitale culturale e cambiamenti comportamentali pro-ambientali.* Euno Edizioni.
+22. Crociata, A., Mattoscio, N., & Aloisio, A. (2015). "Behavioural transformations triggered by cultural participation: Theoretical framework and policy implications." *Economics and Policy of Energy and the Environment.*
+23. Murphy, M., McGovern, E., & Pavia, S. (2009). "Historic Building Information Modelling (HBIM)." *Structural Survey*, 27(4), 311–327.
+24. Boje, C., Guerriero, A., Kubicki, S., & Rezgui, Y. (2020). "Towards a Semantic Construction Digital Twin: Directions for Future Research." *Automation in Construction*, 114, 103179.
+
+---
+
+## 3. Endorsement letters
+
+The proposal is supported by **seven signed letters of endorsement** from heritage authorities, cultural institutions, and territorial stakeholders, primarily based in the L'Aquila area. They confirm the relevance of the H⁴-VALUE framework, the institutional network behind the proposal, and concrete forms of cooperation (access to heritage sites and documentation, candidate case studies, dissemination, and valorization). The signed PDFs are available in the [`endorsement/`](endorsement/) folder and are referenced in the *Impact* and *Feasibility* sections of the application.
+
+| # | Organization | Signatory (role) | Date | Nature of support | Letter |
+|---:|---|---|---|---|---|
+| 1 | Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di L'Aquila e Teramo (SABAP-AQ-TE) — *Ministero della Cultura* | Massimo Sericola (Soprintendente) | 26 May 2026 | Heritage authority. Endorses the framework; supports dissemination, networking, and scientific valorization. | [PDF](endorsement/Endorsement%20SABAP%20AQ.pdf) |
+| 2 | Museo Nazionale d'Abruzzo (MuNDA) — *Ministero della Cultura, DG Musei* | Federica Zalabra (Director) | 28 May 2026 | National museum. Endorses the framework; supports dissemination, networking, and scientific valorization. | [PDF](endorsement/Lettera%20di%20supporto%20Museo%20Nazionale%20d%27Abruzzo%20progetto%20PRIN%20GSSI_signed%20%281%29.pdf) |
+| 3 | Fondazione Pistoletto — Cittadellarte Impresa Sociale ETS | Paolo Naldini (Director) | 27 May 2026 | Cultural foundation. Offers to facilitate access to heritage environments, documentation, and case-study contexts for validation activities. | [PDF](endorsement/Lettera%20di%20Endorsement%20Pistoletto.pdf) |
+| 4 | Associazione Dimore Storiche Italiane ETS (ADSI) | Maria della Pace Odescalchi (President) | 26 May 2026 | National historic-houses association. Strong interest; supports dissemination, networking, and scientific valorization. | [PDF](endorsement/Strategic%20Letter%20of%20Endorsement%20-%20ADSI.pdf) |
+| 5 | Cultura Valore S.r.l. — Impresa Culturale e Creativa | Pietro Petraroia (CEO) | — | Cultural & creative enterprise. Supports dissemination and cultural valorization; contributes to dialogue on participatory heritage governance, accessibility, adaptive reuse, and CCI. | [PDF](endorsement/CultValSrl-ICC_signed-1.pdf) |
+| 6 | Università degli Studi dell'Aquila — Dip. di Scienze Umane (Amiternum excavations) | Prof. Alfonso Forgione (Associate Professor; Scientific Director, Amiternum excavations) | 27 May 2026 | Academic stakeholder. Willing to participate as scientific/cultural stakeholder and to consider the Amiternum archaeological site as a candidate case study. | [PDF](endorsement/endorsement%20Forgione.pdf) |
+| 7 | Teatro Stabile d'Abruzzo (TSA) | Leonardo Bizzarri (Administrative Director) | 25 May 2026 | Regional public theatre. Strong interest; supports dissemination, networking, and scientific valorization. | [PDF](endorsement/lettera%20endorsement_signed%20TSA.pdf) |
+
+---
+
+## 4. Additional supporting material (placeholder)
 
 This section will be populated with the materials produced alongside the proposal:
 
@@ -143,7 +192,6 @@ This section will be populated with the materials produced alongside the proposa
 - **H⁴-VALUE preliminary ontology** — draft version (TBox), preliminary output of T3.1
 - **Case study templates** — descriptions of candidate sites for validation (T4.1)
 - **Indicators catalogue (draft)** — preliminary output of T2.1
-- **Endorsement letters** — endorsement letters from pilot sites and stakeholders
 
 ---
 
