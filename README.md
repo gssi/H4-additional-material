@@ -4,12 +4,11 @@ Supplementary material for the project **H⁴-VALUE** (*Heritage, Haptic, Human 
 
 This repository collects materials supporting the proposal (literature review, data, code, conceptual models) that cannot be fully included within the 20,000-character limit of section C.1 of the application form. The documents collected here are **referenced in the proposal text** and made openly available to reviewers.
 
-**Consortium (5 research units):**
+**Consortium (4 research units):**
 - **CNR** — PI Mariangela De Vita *(Coordinator)*
 - **GSSI** — Associated PI Ludovico Iovino
 - **UdA** — Associated PI Luciana Mastrolonardo
 - **CONSAQ** — Associated PI Alessio Gabriele
-- **ABAQ** — Associated PI Elisabetta Sonnino
 
 ---
 
@@ -199,7 +198,7 @@ This section will be populated with the materials produced alongside the proposa
 
 If you use this material, please cite the proposal as:
 
-> De Vita M., Iovino L., Mastrolonardo L., Gabriele A., Sonnino E. (2026). *H⁴-VALUE — Heritage, Haptic, Human and High-Tech Values in Architectural Living-Use Ecosystems.* PRIN 2026 Proposal, Italian Ministry of University and Research (MUR) — D.D. n. 2298/2026.
+> De Vita M., Iovino L., Mastrolonardo L., Gabriele A. (2026). *H⁴-VALUE — Heritage, Haptic, Human and High-Tech Values in Architectural Living-Use Ecosystems.* PRIN 2026 Proposal, Italian Ministry of University and Research (MUR) — D.D. n. 2298/2026.
 
 ## License
 
