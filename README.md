@@ -169,7 +169,7 @@ Core references cited in section C.1 of the application form. They frame the the
 
 ## 3. Endorsement letters
 
-The proposal is supported by **seven signed letters of endorsement** from heritage authorities, cultural institutions, and territorial stakeholders, primarily based in the L'Aquila area. They confirm the relevance of the H⁴-VALUE framework, the institutional network behind the proposal, and concrete forms of cooperation (access to heritage sites and documentation, candidate case studies, dissemination, and valorization). The signed PDFs are available in the [`endorsement/`](endorsement/) folder and are referenced in the *Impact* and *Feasibility* sections of the application.
+The proposal is supported by **eight signed letters of endorsement** from heritage authorities, cultural institutions, and territorial stakeholders, primarily based in the L'Aquila area. They confirm the relevance of the H⁴-VALUE framework, the institutional network behind the proposal, and concrete forms of cooperation (access to heritage sites and documentation, candidate case studies, dissemination, and valorization). The signed PDFs are available in the [`endorsement/`](endorsement/) folder and are referenced in the *Impact* and *Feasibility* sections of the application.
 
 | # | Organization | Signatory (role) | Date | Nature of support | Letter |
 |---:|---|---|---|---|---|
@@ -180,6 +180,7 @@ The proposal is supported by **seven signed letters of endorsement** from herita
 | 5 | Cultura Valore S.r.l. — Impresa Culturale e Creativa | Pietro Petraroia (CEO) | — | Cultural & creative enterprise. Supports dissemination and cultural valorization; contributes to dialogue on participatory heritage governance, accessibility, adaptive reuse, and CCI. | [PDF](endorsement/CultValSrl-ICC_signed-1.pdf) |
 | 6 | Università degli Studi dell'Aquila — Dip. di Scienze Umane (Amiternum excavations) | Prof. Alfonso Forgione (Associate Professor; Scientific Director, Amiternum excavations) | 27 May 2026 | Academic stakeholder. Willing to participate as scientific/cultural stakeholder and to consider the Amiternum archaeological site as a candidate case study. | [PDF](endorsement/endorsement%20Forgione.pdf) |
 | 7 | Teatro Stabile d'Abruzzo (TSA) | Leonardo Bizzarri (Administrative Director) | 25 May 2026 | Regional public theatre. Strong interest; supports dissemination, networking, and scientific valorization. | [PDF](endorsement/lettera%20endorsement_signed%20TSA.pdf) |
+| 8 | Fondazione Centro per la Conservazione e il Restauro dei Beni Culturali "La Venaria Reale" (CCR) | Alfonso Frugis (President) | 29 May 2026 | Conservation & restoration foundation. Letter of interest; recognizes the framework's scientific relevance and offers scientific exchange, drawing on its expertise in environmental monitoring and preventive conservation of historic and ecclesiastical heritage. | [PDF](endorsement/Prot.%20out%20422_2026%20GSSI%20CNR_H4-VALUE%20PRIN%20lettera%20di%20interesse%20CCR%20%282%29.pdf) |
 
 ---
 
